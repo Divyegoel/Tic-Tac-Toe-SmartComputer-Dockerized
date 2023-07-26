@@ -1,5 +1,6 @@
 # tic-tac-toe-minimax
-This is a command-line implementation of the classic Tic Tac Toe game in Python. It features three different player types: Human Player, Random Computer Player, and Smart Computer Player that utilizes the Minimax algorithm to make optimal moves.
+This is a command-line implementation of the classic Tic Tac Toe game in Python. It features three different player types: Human Player, Random Computer Player, and Smart Computer Player that utilizes the Minimax algorithm to make optimal moves.The game is containerized using Docker for seamless deployment and scalability across various environments.
+
 
 To play the game, run the game.py script using Python. The AI player will be the Smart Computer Player ('X'), and you will be the Human Player ('O'). The game board will be displayed in the console, along with the corresponding numbers for each position.
 
